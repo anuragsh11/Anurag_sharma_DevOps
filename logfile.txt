@@ -1,0 +1,27 @@
+passed with 1 arguments
+Retrieving all the task list
+{
+  "tasks": [
+    {
+      "DueDate": "2019-11-11", 
+      "description": "Coding in python and Java", 
+      "done": true, 
+      "id": 1, 
+      "title": "Do Coding"
+    }, 
+    {
+      "DueDate": "2019-11-21", 
+      "description": "Need to find a good Python tutorial on the web", 
+      "done": false, 
+      "id": 2, 
+      "title": "Learn Python"
+    }, 
+    {
+      "DueDate": "2019-11-21", 
+      "description": "claer", 
+      "done": false, 
+      "id": 3, 
+      "title": "play"
+    }
+  ]
+}
