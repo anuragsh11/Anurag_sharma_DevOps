@@ -70,4 +70,5 @@ else
 	echo "parameters Passed are greater than expected, please see usage";
 	helpFunction
 fi
+echo "Script Fininshed"
 	
